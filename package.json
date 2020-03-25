@@ -1,10 +1,20 @@
 {
   "name": "2fa-system",
   "version": "0.0.0",
+  "author": {
+    "name": "jumakiwaka",
+    "email": "alijuma232@gmail.com"
+  },
   "private": true,
   "scripts": {
     "start": "node app.js"
   },
+  "keywords": [
+    "AfricasTalking",
+    "SMS-API",
+    "nodejs",
+    "2factor authentication"
+  ],
   "dependencies": {
     "africastalking": "^0.4.5",
     "express": "~4.16.0",
